@@ -1,0 +1,7 @@
+print("enter your name")
+x=input()
+print("hello, ",x)
+print("the first letter and fourth letter is, ",x[3],x[5])
+x=x.replace("s","a")
+print("hello ",x)
+print(len (x))
